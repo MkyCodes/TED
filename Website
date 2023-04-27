@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>TEDxSHA</title>
+  </head>
+  <body>
+    <main>
+      <h1> TEDxSHA </h1>
+      <section>
+        <h2>Home</h2>
+        <h2>About</h2>
+        <h2>Our Events</h2>
+      </section>
+    </main>
+    <footer>
+      <p> ©TEDxSHA-2023 </p>
+    </footer>
+  </body>
+</html>
